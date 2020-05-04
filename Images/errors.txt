@@ -1,0 +1,1 @@
+[2020-4-15 17:32:56] layer "+505-8100-9100  Matagalpa, Nicaragua  Email: info@selvanegra.co": Expected Either a default asset specification or a layer asset specification but "+" found.
